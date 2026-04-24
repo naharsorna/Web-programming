@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#all{
+    
+    margin-top: 50px;
+    background-color:#DFDFDF ;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+#dash{
+    display: flex;
+justify-content: space-between;
+}
+
+#sem{
+    padding: 10px;
+    background-image:linear-gradient(to top,#78E7D6,#9CC2E1,#A6BAE3) ;
+height: 60vh;
+width: 200%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#notice{
+    margin-top: 10px;
+background-color: white;
+border-radius: 10px;
+padding: 10px;
+}
+
+table,th,td{
+    background-image: linear-gradient(to right,#CC7D46,#C2B2A4);
+    border: 1px solid  rgb(210, 210, 210);
+    border-collapse: collapse;
+padding-left: 20px;
+    
+}
+
+#tab{
+    background-color:white;
+    height: 14vh;
+    border-radius: 20px;
+    padding: 10px;
+   
+}
+
+#form{
+    padding: 10px;
+    margin-top: 50px;
+    padding-left: 20px;
+    background-color: white;
+border-radius: 20px;
+height: 40vh;
+}
+
+button{
+    margin-top: 10px;
+    color: white;
+    border: none;
+    padding: 4px;
+    background-image: linear-gradient(to right,#1E19DF,#DEBB20);
+}
+
+#course{
+    width: 6000px;
+    background-color: #F5F5F5;
+
+}
+
+#box{
+    display: flex;
+
+}
+
+.check{
+    width: 800px;
+    height: 4vh;
+}
+
+#bottom{
+    padding-left: 500px;
+    padding-top:10px;
+    align-items: center;
+    width: 44.5vw;
+    height: 5vh;
+    color: white;
+background-image: linear-gradient(to right,#B26D19,#027F00,#82AA82);
+}
+
+
+.p{
+    background-color: #B1EEE6;
+    padding: 8px;
+
+}
+
+
+#final{
+    margin-top: 80px;
+   margin-bottom: 100px;
+   margin-left: 100px;
+   margin-right: 200px;
+}

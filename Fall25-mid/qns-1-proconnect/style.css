@@ -1,0 +1,109 @@
+
+#p{
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-RIGHT: 10px;
+    width: 70vw;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+#top{
+    
+    margin-left: 40px;
+    background-color: #ECEFF4;
+    height: 70VH;
+    width: 73vw;
+    margin-right: 30px;
+    
+    
+}
+
+#div1{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: #EFF6FE;
+    width: 40%;
+    height: 60vh;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#div2{
+    /*margin-top: 20px;*/
+    background-color: white;
+    width: 45%;
+  
+  margin-top: 20px;
+    
+    padding-top: 20px;
+    padding-left: 10px;
+    
+}
+
+
+#div12{
+    padding-right: 0.1px;
+    display: flex;
+    padding-top: 20px;
+    margin-top: 10px;
+    border-radius: 90px;
+    width: 70wv;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.icon{
+color: #1a5593;
+padding: 5px;
+}
+.click{
+    padding: 4px;
+    background-color: #50AD50;
+}
+
+#button1{
+    background-color: #50AD50;
+    border: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+#button2{
+    padding-bottom: 5px;
+    padding-top: 5px;
+   color:#3F46A4;
+   padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+
+#aa{
+    background-color: #1a5593;
+    color: white;
+   font-weight: bold;
+    border: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.inputform{
+
+padding-right: 20px;
+padding-bottom: 10px;
+padding-top: 10px;
+    border-color: #ECECEC;
+}
